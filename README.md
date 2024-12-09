@@ -1,4 +1,4 @@
-# Translate
+# TransReplace
 
 ## 效果演示
 
@@ -8,20 +8,21 @@
 
 ## 安装
 
-双击 translate.popclipext 安装插件
+双击 transreplace.popclipext 安装插件
 
 ## 配置
 
 ### API Key
-为了使用这个插件，需要提供一个 OpenAI API Key。获取 API Key 的步骤如下：
 
-1. 注册 OpenAI 帐户：[https://platform.openai.com/](https://platform.openai.com/)
-2. 生成 API Key：[https://platform.openai.com/account/api-keys](https://platform.openai.com/account/api-keys)
-3. 将生成的 API Key（以 sk- 开头）复制并粘贴到插件设置中的“API Key”字段。
+为了使用这个插件，需要提供一个[硅基流动](https://siliconflow.cn/) 的 API Key。硅基流动是一家专注于大模型服务的平台，功能类似于 OpenRouter，提供多样化的开源大模型服务，同时在价格上极具竞争力。
 
 ### 模型
 
-可用的模型数值为gpt-3.5-turbo和gpt-4。
+可用的模型有：
+
+* Qwen/Qwen2.5-7B-Instruct（免费）
+* Qwen/Qwen2.5-72B-Instruct
+* deepseek-ai/DeepSeek-V2.5
 
 
 
