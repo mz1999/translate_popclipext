@@ -23,7 +23,7 @@ export const options = [
         label: "Model",
         type: "multiple",
         defaultValue: "Qwen/Qwen2.5-7B-Instruct",
-        values: ["Qwen/Qwen2.5-7B-Instruct", "Qwen/Qwen2.5-72B-Instruct", "deepseek-ai/DeepSeek-V2.5"],
+        values: ["Qwen/Qwen2.5-7B-Instruct", "Qwen/Qwen2.5-72B-Instruct", "deepseek-ai/DeepSeek-V2.5", "deepseek-ai/DeepSeek-V3"],
     },
     {
         identifier: "textMode",
